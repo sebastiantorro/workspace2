@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package ejemplo1;
+
+/**
+ * @author Usuario
+ *
+ */
+public class ProgramaConexion {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+
+		Conexion con = Conexion.getInstancia();
+		Conexion con2 = Conexion.getInstancia();
+
+	}
+}

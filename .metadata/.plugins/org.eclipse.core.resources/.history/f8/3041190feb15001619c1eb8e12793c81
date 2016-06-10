@@ -1,0 +1,24 @@
+package cl.curso.java.control;
+
+public class Control {
+
+	int precioAlDetalle;
+	int precioAlMayor;
+	
+
+public Control (){
+	precioAlDetalle=30;
+	precioAlMayor=15;
+	}
+
+
+public int cafetera (int pAd, int pAm ){
+	return this.precioAlDetalle=pAd;
+	return this.precioAlMayor=pAm;
+	System.out.println("La cantidad es" + this.precioAlDetalle+this.precioAlMayor);
+	
+
+}
+
+
+}

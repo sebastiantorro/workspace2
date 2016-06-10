@@ -1,0 +1,25 @@
+package ejemplos;
+
+public class Cafetera 
+{
+int capacidadMax;
+int cantidadActual;
+
+//default
+public Cafetera(){
+	capacidadMax=1000;
+
+}
+			
+public Cafetera (){
+	this.capacidadMax=capacidadMax;
+	this.cantidadActual=cantidadActual;
+}
+	
+	
+	
+	
+}
+
+	
+}

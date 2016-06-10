@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package ejemplo1;
+
+import cl.curso.java.login.Usuario;
+
+/**
+ * @author Usuario
+ *
+ */
+public class UsuarioDAO extends Usuario {
+
+}

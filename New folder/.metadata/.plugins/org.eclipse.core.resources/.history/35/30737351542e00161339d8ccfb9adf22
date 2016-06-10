@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package cl.curso.java.singleton.ejemplo.singleton_app;
+
+/**
+ * @author Usuario
+ *
+ */
+public class Motor {
+
+}

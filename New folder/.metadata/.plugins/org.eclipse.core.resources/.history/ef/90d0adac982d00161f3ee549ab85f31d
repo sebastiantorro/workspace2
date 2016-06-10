@@ -1,0 +1,10 @@
+package cl.curso.java.login.app;
+
+public class WebCamCapture {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

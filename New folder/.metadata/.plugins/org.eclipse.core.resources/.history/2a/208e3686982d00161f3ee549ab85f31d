@@ -1,0 +1,17 @@
+package cl.curso.java.login.app;
+
+public class Snippet {
+	/Ejemplos/src/ejemplo1/AutenticacionException.java
+	/Ejemplos/src/ejemplo1/Conexion.java
+	/Ejemplos/src/ejemplo1/ConexionException.java
+	/Ejemplos/src/ejemplo1/CuentaBloqueadaException.java
+	/Ejemplos/src/ejemplo1/LoginGUI.java
+	ejemplo1.LoginGUI
+	/Ejemplos/src/ejemplo1/ProgramaConexion.java
+	/Ejemplos/src/ejemplo1/ProgramaInsert.java
+	/Ejemplos/src/ejemplo1/ProgramaPreparedStatement.java
+	/Ejemplos/src/ejemplo1/Usuario.java
+	/Ejemplos/src/ejemplo1/UsuarioDAO.java
+	/Ejemplos/src/ejemplo1/WebcamService.java
+}
+

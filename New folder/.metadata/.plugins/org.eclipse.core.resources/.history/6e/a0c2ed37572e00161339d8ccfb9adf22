@@ -1,0 +1,24 @@
+/**
+ * 
+ */
+package cl.curso.java.singleton.ejemplo.abstract_factory;
+
+/**
+ * @author Usuario
+ *
+ */
+public class GUIBuilder {
+	
+	public void buildWindow ( AbstractWidgetFactory awf)
+	{
+		
+	}
+	
+
+	
+	
+	
+	
+	
+	
+}

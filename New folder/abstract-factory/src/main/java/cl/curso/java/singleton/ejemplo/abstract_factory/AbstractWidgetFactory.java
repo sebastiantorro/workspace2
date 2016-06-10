@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package cl.curso.java.singleton.ejemplo.abstract_factory;
+
+/**
+ * @author Usuario
+ *
+ */
+public interface AbstractWidgetFactory {
+	
+	public Window createWindow ();
+	
+}

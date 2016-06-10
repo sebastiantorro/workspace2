@@ -1,0 +1,94 @@
+/**
+ * 
+ */
+package cl.curso.java.control_cinco.gmadrid;
+
+import java.util.List;
+
+/**
+ * @author Usuario
+ *
+ */
+public class Empresa {
+	private int nombre;
+	private List<Empleado> empleados;
+
+	/**
+	 * @param nombre
+	 * @param empleados
+	 */
+	public Empresa() {
+
+	}
+
+	/**
+	 * @param nombre
+	 * @param empleados
+	 */
+	public Empresa(int nombre, List<Empleado> empleados) {
+		super();
+		this.nombre = nombre;
+		this.empleados = empleados;
+	}
+
+	/**
+	 * @return the nombre
+	 */
+	public int getNombre() {
+		return nombre;
+	}
+
+	/**
+	 * @param nombre
+	 *            the nombre to set
+	 */
+	public void setNombre(int nombre) {
+		this.nombre = nombre;
+	}
+
+	/**
+	 * @return the empleados
+	 */
+	public List<Empleado> getEmpleados() {
+		return empleados;
+	}
+
+	/**
+	 * @param empleados
+	 *            the empleados to set
+	 */
+	public void setEmpleados(List<Empleado> empleados) {
+		this.empleados = empleados;
+	}
+
+	/**
+	 * metodo ordenarEmpleadosPorNombre()
+	 */
+	public void ordenarEmpleadosPorNombre() {
+
+	}
+
+	/**
+	 * metodo ordenarPorDepartamento()
+	 */
+	public void ordenarPorDepartamento() {
+	}
+
+	/**
+	 *metodo buscarEmpleado
+	 * @param rut
+	 * @return
+	 */
+	public Empleado buscarEmpleado(String rut) {
+		
+	}
+
+	/**
+	 * metodo imprimir
+	 */
+	public void imprimir()
+	{
+		
+	}
+	
+}
